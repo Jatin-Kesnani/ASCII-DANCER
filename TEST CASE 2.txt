@@ -1,0 +1,21 @@
+3
+5
+right leg in
+left hand to head
+turn
+right hand to hip
+say How's That!
+8
+left leg in
+right hand to start
+left hand to hip
+say Are you seeing it?
+left hand to hip
+right hand to hip
+say Check This Move!
+right hand to head
+4
+say Hokey Pokey
+left hand to hip
+right hand to hip
+right hand to head

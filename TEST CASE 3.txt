@@ -1,0 +1,12 @@
+2
+6
+Hokey Pokey
+say You put your right foot in
+right leg in
+say You put your right foot out
+right hand out
+left leg in
+3
+say Shake it all about
+left hand to head
+right hand to hip
