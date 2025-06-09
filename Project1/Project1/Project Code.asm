@@ -45,8 +45,6 @@ Main PROC
 	Call Crlf
 	Mwrite "		*           Prepared By : Jatin Kesnani  (K21-3204)          *"
 	Call Crlf
-	Mwrite "		*                         Talha Muzammil (K20-1715)          *"
-	Call Crlf
 	Mwrite "		*                                                            *"
 	Call Crlf
 	Mwrite "		*                                                            *"
